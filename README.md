@@ -1,2 +1,2 @@
-#  Noemalised ATP-database (Tennis)
+#  Normalised ATP-database (Tennis)
 ATP Database in csv format  
